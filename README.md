@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ar-murade
-- 👀 I’m interested in Coding.
+- 👀 I have expertise working with angular.
 - 🌱 I’m currently learning Node Js.
 
 <!---
